@@ -1,0 +1,7 @@
+.venv
+staticfiles
+media
+__pycache__
+db.sqlite3
+docker-compose.yml
+docker-compose-prod.yml
